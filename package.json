@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
-    "postinstall": "ng build --output-path your-application-name --aot --prod",
+    "postinstall": "ng build --output-path angular-todolist --aot --prod",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
